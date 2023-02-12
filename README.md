@@ -2,4 +2,4 @@
 
 ---
 
-## Preview - [link GitHub pages](https://dimaestro.github.io/goit-markup-hw-01/ 'GitHub pages')
+## Preview - [link GitHub pages](https://dimaestro.github.io/goit-markup-hw-02/ 'GitHub pages')
